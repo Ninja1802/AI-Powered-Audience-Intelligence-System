@@ -1,4 +1,4 @@
-# 🎥 TubePulse-Analytics
+# 🎥 AI-Powerd-Audience-Intelligence-System
 
 ### Prompt-Driven YouTube Insight Engine (Powered by LLMs)
 
